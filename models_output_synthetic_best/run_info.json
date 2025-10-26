@@ -1,0 +1,23 @@
+{
+  "dataset": "/Users/amanda/Desktop/UCBT/ucbt_dataset_synthetic_best.csv",
+  "rows": 20000,
+  "random_state": 42,
+  "saved_models": [
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/xgb_Neutrophil_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/gbm_Neutrophil_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/rf_Neutrophil_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/svm_Neutrophil_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/xgb_Platelet_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/gbm_Platelet_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/rf_Platelet_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/svm_Platelet_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/xgb_Chronic_GVHD.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/gbm_Chronic_GVHD.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/rf_Chronic_GVHD.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/svm_Chronic_GVHD.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/xgb_1_Year_Survival.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/gbm_1_Year_Survival.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/rf_1_Year_Survival.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_synthetic_best/models/svm_1_Year_Survival.joblib"
+  ]
+}
