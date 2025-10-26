@@ -1,0 +1,147 @@
+{
+    "primary_key": "Patient_ID",
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "Patient_ID": {
+            "sdtype": "id"
+        },
+        "Recipient_Age": {
+            "sdtype": "numerical"
+        },
+        "Recipient_Sex": {
+            "sdtype": "numerical"
+        },
+        "Ethnicity": {
+            "sdtype": "categorical"
+        },
+        "Race": {
+            "sdtype": "categorical"
+        },
+        "Disease_Type": {
+            "sdtype": "categorical"
+        },
+        "Conditioning_Regimen": {
+            "sdtype": "categorical"
+        },
+        "Remission_Status": {
+            "sdtype": "numerical"
+        },
+        "Cord_Blood_Units": {
+            "sdtype": "numerical"
+        },
+        "HLA_Match_Level": {
+            "sdtype": "categorical"
+        },
+        "Neutrophil_Engraftment": {
+            "sdtype": "numerical"
+        },
+        "Platelet_Engraftment": {
+            "sdtype": "numerical"
+        },
+        "Chronic_GVHD": {
+            "sdtype": "numerical"
+        },
+        "1_Year_Survival": {
+            "sdtype": "numerical"
+        },
+        "Study_ID": {
+            "sdtype": "categorical"
+        },
+        "CD34_num_pre": {
+            "sdtype": "numerical"
+        },
+        "TNC_num_pre": {
+            "sdtype": "numerical"
+        },
+        "hla_best_pre": {
+            "sdtype": "numerical"
+        },
+        "hla_worst_pre": {
+            "sdtype": "numerical"
+        },
+        "hla_any6_pre": {
+            "sdtype": "categorical"
+        },
+        "hla_double_pre": {
+            "sdtype": "categorical"
+        },
+        "CD34_num": {
+            "sdtype": "numerical"
+        },
+        "TNC_num": {
+            "sdtype": "numerical"
+        },
+        "hla_best": {
+            "sdtype": "numerical"
+        },
+        "hla_worst": {
+            "sdtype": "numerical"
+        },
+        "hla_any6": {
+            "sdtype": "numerical"
+        },
+        "hla_double": {
+            "sdtype": "numerical"
+        },
+        "HLAxCD34": {
+            "sdtype": "numerical"
+        },
+        "HLAxTNC": {
+            "sdtype": "numerical"
+        },
+        "Age_x_CD34": {
+            "sdtype": "numerical"
+        },
+        "Age_x_TNC": {
+            "sdtype": "numerical"
+        },
+        "log_CD34_num": {
+            "sdtype": "numerical"
+        },
+        "log_TNC_num": {
+            "sdtype": "numerical"
+        },
+        "Age2": {
+            "sdtype": "numerical"
+        },
+        "AgeBin": {
+            "sdtype": "categorical"
+        },
+        "hla_mean": {
+            "sdtype": "numerical"
+        },
+        "hla_range": {
+            "sdtype": "numerical"
+        },
+        "CD34_adequate": {
+            "sdtype": "numerical"
+        },
+        "TNC_adequate": {
+            "sdtype": "numerical"
+        },
+        "Adequacy_Both": {
+            "sdtype": "numerical"
+        },
+        "Units_x_CD34": {
+            "sdtype": "numerical"
+        },
+        "Units_x_TNC": {
+            "sdtype": "numerical"
+        },
+        "Regimen_MA": {
+            "sdtype": "numerical"
+        },
+        "Age_x_RegimenMA": {
+            "sdtype": "numerical"
+        },
+        "CD34_num_q_by_DzHLA": {
+            "sdtype": "numerical"
+        },
+        "TNC_num_q_by_DzHLA": {
+            "sdtype": "numerical"
+        },
+        "Dz_HLA_Interact": {
+            "sdtype": "categorical"
+        }
+    }
+}
