@@ -1,0 +1,23 @@
+{
+  "dataset": "/Users/amanda/Desktop/UCBT/ucbt_dataset.csv",
+  "rows": 10222,
+  "random_state": 42,
+  "saved_models": [
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/xgb_Neutrophil_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/gbm_Neutrophil_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/rf_Neutrophil_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/svm_Neutrophil_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/xgb_Platelet_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/gbm_Platelet_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/rf_Platelet_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/svm_Platelet_Engraftment.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/xgb_Chronic_GVHD.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/gbm_Chronic_GVHD.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/rf_Chronic_GVHD.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/svm_Chronic_GVHD.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/xgb_1_Year_Survival.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/gbm_1_Year_Survival.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/rf_1_Year_Survival.joblib",
+    "/Users/amanda/Desktop/UCBT/models_output_ucbt_dataset/models/svm_1_Year_Survival.joblib"
+  ]
+}

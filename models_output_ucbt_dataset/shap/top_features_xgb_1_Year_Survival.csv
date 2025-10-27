@@ -1,0 +1,26 @@
+feature,mean_abs_shap
+Recipient_Age,0.14413722
+TNC_num,0.11094243
+TNC_num__aligned,0.10444897
+CD34_num__aligned,0.08824478
+Remission_Status,0.07858231
+CD34_num,0.07801997
+Conditioning_Regimen_Unknown,0.0527966
+Ethnicity_Unknown,0.029050909
+Cord_Blood_Units,0.028876763
+Recipient_Sex,0.023605311
+Race_Asian,0.02115555
+Race_African American,0.02101372
+Conditioning_Regimen_Myeloablative,0.020954289
+Race_Caucasian(white),0.019764932
+Race_White,0.019540064
+HLA_Match_Level_5/6,0.018075421
+HLA_Match_Level_4/6,0.017701674
+Conditioning_Regimen_Reduced intensity,0.017204566
+Race_Unknown,0.016848888
+Disease_Type_ALL,0.01651246
+Disease_Type_AML,0.014346743
+Ethnicity_Non-Hispanic,0.014183983
+Race_Caucasian,0.013232678
+Disease_Type_MDS,0.012305135
+Race_Non-Caucasian,0.010180087

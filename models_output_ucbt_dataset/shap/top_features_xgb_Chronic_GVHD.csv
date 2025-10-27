@@ -1,0 +1,26 @@
+feature,mean_abs_shap
+Recipient_Age,0.17865662
+Ethnicity_Unknown,0.16194044
+TNC_num,0.1263678
+CD34_num__aligned,0.11150187
+CD34_num,0.091421105
+TNC_num__aligned,0.08260771
+Race_Unknown,0.06621522
+HLA_Match_Level_5/6,0.045382746
+Remission_Status,0.04003695
+Recipient_Sex,0.037933193
+Ethnicity_Non-Hispanic,0.036687393
+HLA_Match_Level_4/6,0.035299383
+Disease_Type_MDS,0.032085843
+Cord_Blood_Units,0.029853068
+Disease_Type_AML,0.0285697
+Ethnicity_Hispanic/Latinx,0.025329877
+"HLA_Match_Level_4/6,4/6",0.02163469
+Conditioning_Regimen_Myeloablative,0.01889624
+Race_White,0.018220557
+Race_Black or African American,0.01769627
+Conditioning_Regimen_Reduced intensity,0.017127132
+"HLA_Match_Level_4/6,5/6",0.016916877
+Disease_Type_ALL,0.016903322
+Race_Caucasian(white),0.013418966
+HLA_Match_Level_6/6,0.010451792
