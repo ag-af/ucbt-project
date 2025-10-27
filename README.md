@@ -1,6 +1,7 @@
-UCBT Predictive Modelling Project
+# UCBT Predictive Modelling Project
 
 Setup
+
 Install dependencies: pip install -r requirements.txt
 
 Run verify_environment.ipynb to confirm package versions.
