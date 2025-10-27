@@ -2,7 +2,9 @@ UCBT Predictive Modelling Project
 
 Setup
 Install dependencies: pip install -r requirements.txt
+
 Run verify_environment.ipynb to confirm package versions.
+
 Execute notebooks in order: 01_dataset_creation, 02_synthetic_data, 03_modelling, 04_synthetic_dataset_modelling, 04_real_dataset_modelling
 
 Requirements
